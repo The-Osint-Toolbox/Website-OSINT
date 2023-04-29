@@ -71,6 +71,8 @@
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p> 
   <li><a href="https://www.larger.io/">Larger</a></li> 
    <p>Larger uncovers the technologies used on websites.</p>    
+  <li><a href="https://search.google.com/test/mobile-friendly">Mobile Freindly</a></li> 
+   <p>Google's mobile friendly test, is if a web page is mobile freindly.</p>    
   <li><a href="https://mxtoolbox.com/NetworkTools.aspx">MX Toolbox</a></li> 
    <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>
   <li><a href="https://www.phishtank.com/">Phish Tank.</a></li> 
