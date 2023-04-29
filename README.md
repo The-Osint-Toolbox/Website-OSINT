@@ -28,6 +28,8 @@
     </tr>
   </table> 
 <ul>
+ <li><a href="https://search.censys.io/">Censys</a></li>   
+  <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
  <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
   <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
  <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
@@ -50,6 +52,8 @@
      <p>A complete DNS records lookup product line to check the NS, MX, SPF, A, SOA, TXT, etc.</p>
     <li><a href="https://ip-geolocation.whoisxmlapi.com/">WhoisXML IP Geolocation</a></li> 
      <p>IP geolocation tools to find someone’s exact IP address location.</p>
+    <li><a href="https://ip-netblocks.whoisxmlapi.com/overview">WhoisXML IP Range</a></li> 
+     <p>Gather details about the IP range of a specific IP address such as its netblock borders, last update, organization name, country code, abuse contact information.</p>
     <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois</a></li> 
      <p>WHOIS History Lookup: Access domain name ownership history.</p>
 </ul>  
