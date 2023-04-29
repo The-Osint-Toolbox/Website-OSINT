@@ -59,6 +59,8 @@
    <p>Cmlabs, lets you find out what technologies websites have.</p>    
   <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
    <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
+  <li><a href="https://dnsdumpster.com/">DNS Dumpster</a></li> 
+   <p>Dns recon & research, find & lookup dns records.</p>    
   <li><a href="https://downforeveryoneorjustme.com/">Down For Everyone</a></li>  
    <p>This site checks if a website is down for everyone or just you.</p>  
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
