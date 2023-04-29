@@ -40,6 +40,8 @@
     </tr>
   </table> 
 <ul>
+    <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
+     <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
-     <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+     <p>Find Hosting Company On Any Website / Owner on Any IP Address.</p>
 </ul>  
