@@ -33,4 +33,13 @@
  <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
   <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
 </ul>
-
+<br></br>
+<table>
+    <tr>
+      <td>Whois Resources</td>
+    </tr>
+  </table> 
+<ul>
+    <li><a href="https://myip.ms/">My IP</a></li>
+     <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+</ul>  
