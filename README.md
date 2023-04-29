@@ -50,6 +50,10 @@
    <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
   <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
    <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
+  <li><a href="https://downforeveryoneorjustme.com/">Down For Everyone</a></li>  
+   <p>This site checks if a website is down for everyone or just you.</p>  
+  <li><a href="https://urlscan.io/">Urlscan</a></li> 
+   <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
    <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
 </ul>
