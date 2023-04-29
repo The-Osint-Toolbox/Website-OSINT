@@ -71,10 +71,14 @@
    <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>    
   <li><a href="https://urlscan.io/">Urlscan</a></li> 
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
+  <li><a href="https://viewdns.info/">View DNS</a></li> 
+   <p>ViewDNS.info allow users to gather a large amount of data about a given website or IP address./p>    
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
    <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
   <li><a href="https://www.wappalyzer.com/">Wappalyzer</a></li> 
    <p>Find out the technology stack of any website. Create lists of websites that use certain technologies.</p>    
+  <li><a href="http://www.websitedown.info/">Website Down</a></li>
+   <p>Website Down status checker tool to test any site's reachability in real-time.</p>     
 </ul>
 <br></br>
 <table>
