@@ -16,6 +16,8 @@
      <p>Find domains with the same Google Adsense ID.</p>
     <li><a href="https://www.similarsites.com/">Similar Sites</a></li> 
      <p>Instantly find websites similar to the one you're currently browsing.</p>
+    <li><a href="https://www.similarsitesearch.com/">Similar Site Search</a></li>
+     <p>quickly discover sites that offer similar content, features, and services.</p>  
 </ul>    
 <br></br>
 <table>
@@ -28,6 +30,5 @@
   <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
  <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
   <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
- <li></li>
 </ul>
 
