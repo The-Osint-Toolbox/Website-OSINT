@@ -68,7 +68,9 @@
   <li><a href="https://www.larger.io/">Larger</a></li> 
    <p>Larger uncovers the technologies used on websites.</p>    
   <li><a href="https://mxtoolbox.com/NetworkTools.aspx">MX Toolbox</a></li> 
-   <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>    
+   <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>
+  <li><a href="https://spyonweb.com/">Spy On Web</a></li>
+   <p>Spy On Web is a free online service that allows you to identify all websites that might belong to the same owner.</p>
   <li><a href="https://urlscan.io/">Urlscan</a></li> 
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="https://viewdns.info/">View DNS</a></li> 
