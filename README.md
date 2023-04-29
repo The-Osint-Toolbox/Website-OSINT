@@ -15,6 +15,8 @@
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
+    <li><a href="https://www.httrack.com/">HTTrack</a></li> 
+     <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
      <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
     <li><a href="https://archive.org/">Wayback Machine</a></li> 
