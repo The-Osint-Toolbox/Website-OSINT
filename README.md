@@ -18,6 +18,8 @@
      <p>Instantly find websites similar to the one you're currently browsing.</p>
     <li><a href="https://www.similarsitesearch.com/">Similar Site Search</a></li>
      <p>quickly discover sites that offer similar content, features, and services.</p>  
+    <li><a href="https://m.siteslike.com/">Sites Like</a></li>
+     <p>You can search 1000's of sites that are similar to each other.</p>
 </ul>    
 <br></br>
 <table>
