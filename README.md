@@ -44,4 +44,12 @@
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
      <p>Find Hosting Company On Any Website / Owner on Any IP Address.</p>
+    <li><a href="https://tools.whoisxmlapi.com/login">WhoisXML Domain Suite</a></li> 
+     <p>This link will take you to the login page, where you can create a free account. The sites below offer Whois XML limited data without the need to log in.</p>
+    <li><a href="https://dns-lookup.whoisxmlapi.com/">WhoisXML DNS</a></li>
+     <p>A complete DNS records lookup product line to check the NS, MX, SPF, A, SOA, TXT, etc.</p>
+    <li><a href="https://ip-geolocation.whoisxmlapi.com/">WhoisXML IP Geolocation</a></li> 
+     <p>IP geolocation tools to find someone’s exact IP address location.</p>
+    <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois</a></li> 
+     <p>WHOIS History Lookup: Access domain name ownership history.</p>
 </ul>  
