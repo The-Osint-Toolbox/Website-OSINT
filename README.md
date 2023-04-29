@@ -43,7 +43,7 @@
 <br></br>
 <table>
     <tr>
-      <td>Website Analyser Resources</td>
+      <td>Website Analysis Resources</td>
     </tr>
 </table> 
 <ul>
