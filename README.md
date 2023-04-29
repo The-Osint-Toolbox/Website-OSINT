@@ -12,6 +12,10 @@
 <ul>
     <li><a href="https://archive.is/">Archive Today</a></li>
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
+    <li><a href="https://distill.io/">Distill</a></li> 
+     <p>Tracking website updates, automated and simplified.</p>
+    <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
+     <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
     <li><a href="https://archive.org/">Wayback Machine</a></li> 
      <p>Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.</p>
 </ul>
@@ -40,6 +44,8 @@
     </tr>
 </table> 
 <ul>
+   <li><a href="https://themarkup.org/blacklight">Blacklight</a></li>
+   <p>Blacklight will scan a website and reveal the specific user-tracking technologies on the site.</p>
   <li><a href="https://search.censys.io/">Censys</a></li>   
    <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
   <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
