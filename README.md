@@ -1,9 +1,21 @@
 # Website-OSINT
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
-</p>
+      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+    </p>
 <br></br>
 <p></p>
+<table>
+    <tr>
+      <td>Archive Resources</td>
+    </tr>
+  </table>
+<ul>
+    <li><a href="https://archive.is/">Archive Today</a></li>
+     <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
+    <li><a href="https://archive.org/">Wayback Machine</a></li> 
+     <p>Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.</p>
+</ul>
+<br></br>
 <table>
       <tr>
         <td>Similar Site Resources</td>
@@ -17,23 +29,23 @@
     <li><a href="https://www.similarsites.com/">Similar Sites</a></li> 
      <p>Instantly find websites similar to the one you're currently browsing.</p>
     <li><a href="https://www.similarsitesearch.com/">Similar Site Search</a></li>
-     <p>quickly discover sites that offer similar content, features, and services.</p>  
+     <p>quickly discover sites that offer similar content, features, and services.</p>
     <li><a href="https://m.siteslike.com/">Sites Like</a></li>
      <p>You can search 1000's of sites that are similar to each other.</p>
-</ul>    
+</ul>   
 <br></br>
 <table>
     <tr>
-      <td>Website Analyer Resources</td>
+      <td>Website Analyser Resources</td>
     </tr>
-  </table> 
+</table> 
 <ul>
- <li><a href="https://search.censys.io/">Censys</a></li>   
-  <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
- <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
-  <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
- <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
-  <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
+  <li><a href="https://search.censys.io/">Censys</a></li>   
+   <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
+  <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
+   <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
+  <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
+   <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
 </ul>
 <br></br>
 <table>
@@ -45,7 +57,7 @@
     <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
-     <p>Find Hosting Company On Any Website / Owner on Any IP Address.</p>
+     <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
     <li><a href="https://tools.whoisxmlapi.com/login">WhoisXML Domain Suite</a></li> 
      <p>This link will take you to the login page, where you can create a free account. The sites below offer Whois XML limited data without the need to log in.</p>
     <li><a href="https://dns-lookup.whoisxmlapi.com/">WhoisXML DNS</a></li>
@@ -54,6 +66,9 @@
      <p>IP geolocation tools to find someone’s exact IP address location.</p>
     <li><a href="https://ip-netblocks.whoisxmlapi.com/overview">WhoisXML IP Range</a></li> 
      <p>Gather details about the IP range of a specific IP address such as its netblock borders, last update, organization name, country code, abuse contact information.</p>
-    <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois</a></li> 
+    <li><a href="https://whois.whoisxmlapi.com/overview">WhoisXML Whois Overview</a></li>
+     <p>WHOIS data domain name, IP address, or email account</p>
+    <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois History</a></li> 
      <p>WHOIS History Lookup: Access domain name ownership history.</p>
 </ul>  
+<br></br>
