@@ -85,6 +85,10 @@
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
      <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+    <li><a href="https://torwhois.com/">Tor Whois</a></li>
+     <p>TorWhois Onion Search.</p>  
+    <lI><a href="https://whoisology.com/">Whoisology</a></lI> 
+     <p>Deep connections between domain names & their owners.</p>  
     <li><a href="https://tools.whoisxmlapi.com/login">WhoisXML Domain Suite</a></li> 
      <p>This link will take you to the login page, where you can create a free account. The sites below offer Whois XML limited data without the need to log in.</p>
     <li><a href="https://dns-lookup.whoisxmlapi.com/">WhoisXML DNS</a></li>
