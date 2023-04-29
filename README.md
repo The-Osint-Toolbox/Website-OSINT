@@ -64,6 +64,8 @@
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
    <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
+  <li><a href="https://www.wappalyzer.com/">Wappalyzer</a></li> 
+   <p>Find out the technology stack of any website. Create lists of websites that use certain technologies.</p>    
 </ul>
 <br></br>
 <table>
