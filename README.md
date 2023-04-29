@@ -101,6 +101,8 @@
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
      <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+    <li><a href="https://synapsint.com/">Synapsint</a></li> 
+     <p>Synapsint is a tool that allows you to collect information from different open sources on the Internet about a target such as a domain, an IP address, an email, a phone number and a Bitcoin wallet.</p>  
     <li><a href="https://torwhois.com/">Tor Whois</a></li>
      <p>TorWhois Onion Search.</p>  
     <lI><a href="https://whoisology.com/">Whoisology</a></lI> 
