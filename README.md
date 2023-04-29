@@ -44,6 +44,8 @@
     </tr>
 </table> 
 <ul>
+  <li><a href="https://awesometechstack.com/">Awesome Tech Stack</a></li>
+   <p>Awesome Tech Stack's offers in-depth technology analysis of a website.</p>      
   <li><a href="https://themarkup.org/blacklight">Blacklight</a></li>
    <p>Blacklight will scan a website and reveal the specific user-tracking technologies on the site.</p>
   <li><a href="https://builtwith.com/">Built With</a></li> 
