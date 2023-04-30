@@ -3,7 +3,8 @@
       <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
     </p>
 <br></br>
-<p>Welcome to my website Osint repository. Many of the resources, require you to sign up for an account but they will offer a free amount of monthly searches and an API. Some will offer free searches without the need to sign up however they may not provide you with the full result of your request. Some resources will offer you everything they find on a website.</p>
+<p>Welcome to my website Osint repository. Some of the resources, require you to sign up for an account but they will offer a free amount of monthly searches and an API key. Some will offer free searches without the need to sign up however they may not provide you with the full result of your request. Some resources will offer you everything they find on a website. 
+<p>If you are thinking of using an OSINT tool such as Spiderfoot, it is worth obtaining API keys so that Spiderfoot can automate your website research for you.</p>
 <table>
 <br></br>      
     <tr>
@@ -142,7 +143,7 @@
     <lI><a href="https://whoisology.com/">Whoisology</a></lI> 
      <p>Deep connections between domain names & their owners.</p>  
     <li><a href="https://tools.whoisxmlapi.com/login">WhoisXML Domain Suite</a></li> 
-     <p>This link will take you to the login page, where you can create a free account. The sites below offer Whois XML limited data without the need to log in.</p>
+     <p>This link will take you to the login page, where you can create a free account. The links below offer WhoisXML limited data without the need to log in.</p>
     <li><a href="https://dns-lookup.whoisxmlapi.com/">WhoisXML DNS</a></li>
      <p>A complete DNS records lookup product line to check the NS, MX, SPF, A, SOA, TXT, etc.</p>
     <li><a href="https://ip-geolocation.whoisxmlapi.com/">WhoisXML IP Geolocation</a></li> 
