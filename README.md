@@ -121,5 +121,7 @@
      <p>WHOIS data domain name, IP address, or email account</p>
     <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois History</a></li> 
      <p>WHOIS History Lookup: Access domain name ownership history.</p>
+    <li><a href="https://www.whoxy.com/">Whoxy</a></li> 
+     <p>Search by domain, keyword, email address, company name.</p>  
 </ul>  
 <br></br>
