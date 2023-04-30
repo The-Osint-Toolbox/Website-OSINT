@@ -22,6 +22,30 @@
     <li><a href="https://archive.org/">Wayback Machine</a></li> 
      <p>Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.</p>
 </ul>
+<br></br> 
+<table>
+    <tr>
+      <td>Blogs</td>
+    </tr>
+  </table>
+<ul>
+    <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li> 
+     <p>Finding Out Who Is Behind A Website.</p>
+    <li><a href="https://nixintel.info/osint/website-forensics-how-to-detect-editorial-changes/">Nixintel</a></li>
+     <p>Nixintel's Website Forensics: How To Detect Editorial Change.</p>
+    <li><a href="https://nixintel.info/osint/osint-techniques-whos-behind-a-wordpress-site/">Nixintel</a></li> 
+     <p>OSINT Techniques: Who’s Behind A WordPress Site?</p>
+    <li><a href="https://nixintel.info/osint/search-tip-finding-historic-whois-data/">Nixintel</a></li> 
+     <p>Search Tip: Finding Historic WhoIs Data.</p>
+    <li><a href="https://nixintel.info/osint/website-attribution-without-whois-reverse-ip-lookup/">Nixintel</a></li> 
+     <p>Website Attribution Without WhoIs – Reverse IP Lookup.</p>
+    <li><a href="https://nixintel.info/osint/website-attribution-without-whois-reverse-ip-lookups-part-2/">Nixintel</a></li> 
+     <p>Website Attribution Without WhoIs – Reverse IP Lookups (Part 2)</p>
+    <li><a href="https://nixintel.info/osint/website-investigation-where-did-8chan-move-to/">Nixintel</a></li> 
+     <p>Website Investigation – Where Did 8Chan Move To?</p>
+    <li><a href="https://nixintel.info/osint/website-osint-whats-the-link-between-antifa-com-and-russia/">Nixintel</a></li> 
+     <p>Website OSINT: What’s The Link Between Antifa.com and Russia?</p>
+</ul>      
 <br></br>
 <table>
       <tr>
@@ -69,6 +93,8 @@
    <p>This site checks if a website is down for everyone or just you.</p>  
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p> 
+  <li><a href="https://www.ipvoid.com/">IPVoid</a></li> 
+   <p>Popular toolkit resources for researching websites.</p>    
   <li><a href="https://www.larger.io/">Larger</a></li> 
    <p>Larger uncovers the technologies used on websites.</p>    
   <li><a href="https://search.google.com/test/mobile-friendly">Mobile Freindly</a></li> 
