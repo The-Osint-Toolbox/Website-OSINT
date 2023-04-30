@@ -14,7 +14,9 @@
     <li><a href="https://archive.is/">Archive Today</a></li>
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
     <li><a href="http://www.cachedpages.com/">Cached Pages</a></li> 
-     <P>Get the cached page of any URL.</P>  
+     <p>Get the cached page of any URL.<p>
+    <li><a href="https://cachedviews.com/">Cached Views</a></li> 
+     <p>Cached view of any page on Internet through multiple cached sources.</p>
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
     <li><a href="https://followthatpage.com/">Follow That Page</a></li> 
