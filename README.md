@@ -13,8 +13,12 @@
 <ul>
     <li><a href="https://archive.is/">Archive Today</a></li>
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
+    <li><a href="http://www.cachedpages.com/">Cached Pages</a></li> 
+     <P>Get the cached page of any URL.</P>  
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
+    <li><a href="https://followthatpage.com/">Follow That Page</a></li> 
+     <p>Follow That Page is a change detection and notification service that sends you an email when your favourite web pages have change.</p>  
     <li><a href="https://www.httrack.com/">HTTrack</a></li> 
      <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
