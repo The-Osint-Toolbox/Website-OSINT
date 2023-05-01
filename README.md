@@ -14,6 +14,8 @@
 <ul>
     <li><a href="https://archive.is/">Archive Today</a></li>
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
+    <li><a href="https://www.aware-online.com/en/osint-tools/web-archive-search-tool/">Aware-Online</a></li>
+     <p>A tool to create targeted searches for archived texts, videos, audio, software and images from the internet.</p>  
     <li><a href="http://www.cachedpages.com/">Cached Pages</a></li> 
      <p>Get the cached page of any URL.<p>
     <li><a href="https://cachedviews.com/">Cached Views</a></li> 
