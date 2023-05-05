@@ -94,6 +94,8 @@
    <p>Cmlabs, lets you find out what technologies websites have.</p>    
   <li><a href="https://cybernews.com/website-security-checker/">Cybernews Website Security Checker</a></li>
    <p>This free website vulnerability scanner tests a website for potential security flaws.</p>
+  <li><a href="https://cyber-xray.com/#/search">Cyber X-Ray</a></li> 
+   <p>Classifies the domains on the Internet according to their “historical and relational data.”</p>  
   <li><a href="https://dnsdumpster.com/">DNS Dumpster</a></li> 
    <p>Dns recon & research, find & lookup dns records.</p>    
   <li><a href="https://dnslytics.com/tools">DNS Lytics</a></li> 
