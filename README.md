@@ -38,6 +38,8 @@
     </tr>
   </table>
 <ul>
+     <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
+     <p>Conducting Basic Open-source Intelligence Research on a Website| 2023</p>
     <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li> 
      <p>Finding Out Who Is Behind A Website.</p>
     <li><a href="https://nixintel.info/osint/website-forensics-how-to-detect-editorial-changes/">Nixintel</a></li>
