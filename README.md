@@ -6,6 +6,17 @@
 <p>Welcome to my website Osint repository. Some of the resources, require you to sign up for an account but they will offer a free amount of monthly searches and an API key. Some will offer free searches without the need to sign up however they may not provide you with the full result of your request. Some resources will offer you everything they find on a website. 
 <p>If you are thinking of using an OSINT tool such as Spiderfoot, it is worth obtaining API keys so that Spiderfoot can automate your website research for you.</p>
 <table>
+  <tr>
+    <td>ICANN</td>
+  </tr>
+</table>
+ <ul>
+  <li><a href="https://lookup.icann.org/en">ICANN Lookup</a></li>
+   <p>Anytime you register a domain on the Internet, you go through a domain name registrar, who pays a small fee to ICANN to register your domain.</p>
+  <li><a href="https://www.nominet.uk/lookup/">Nominet</a></li> 
+   <p>Nominet UK is currently delegated by IANA to be the manager of the .uk domain name.</p> 
+</ul>     
+<table>
 <br></br>      
     <tr>
       <td>Archive Resources</td>
