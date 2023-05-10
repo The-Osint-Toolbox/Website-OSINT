@@ -39,6 +39,8 @@
      <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
      <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
+    <li><a href="https://www.webarchive.org.uk/en/ukwa/">UK Web Archive</a></li> 
+     <p>Use this site to discover old or obsolete versions of UK websites.</p>  
     <li><a href="https://archive.org/">Wayback Machine</a></li> 
      <p>Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.</p>
 </ul>
