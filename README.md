@@ -124,7 +124,9 @@
   <li><a href="https://www.ipvoid.com/">IPVoid</a></li> 
    <p>Popular toolkit resources for researching websites.</p>    
   <li><a href="https://www.larger.io/">Larger</a></li> 
-   <p>Larger uncovers the technologies used on websites.</p>    
+   <p>Larger uncovers the technologies used on websites.</p>   
+  <li><a href="https://lookyloo.circl.lu/capture">Lookyloo</a></li> 
+   <p>Website forensic tool for analysing links and redirects on a website. You can also search for previous website analyse.</p>    
   <li><a href="https://search.google.com/test/mobile-friendly">Mobile Freindly</a></li> 
    <p>Google's mobile friendly test, see how a website renders on a mobile.</p>    
   <li><a href="https://mxtoolbox.com/NetworkTools.aspx">MX Toolbox</a></li> 
