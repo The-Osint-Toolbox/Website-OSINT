@@ -146,7 +146,9 @@
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
    <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
   <li><a href="https://www.wappalyzer.com/">Wappalyzer</a></li> 
-   <p>Find out the technology stack of any website. Create lists of websites that use certain technologies.</p>    
+   <p>Find out the technology stack of any website. Create lists of websites that use certain technologies.</p>
+  <li><a href="https://web-check.as93.net/">Web Check</a></li>
+   <p>Analyse a website, server location, crawl rules, DNS record, SSL info etc.</p>
   <li><a href="http://www.websitedown.info/">Website Down</a></li>
    <p>Website Down status checker tool to test any site's reachability in real-time.</p>     
   <li><a href="https://website.informer.com/">Website Informer</a></li> 
