@@ -52,7 +52,7 @@
   </table>
 <ul>
      <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
-     <p>Conducting Basic Open-source Intelligence Research on a Website| 2023</p>
+     <p>Conducting Basic Open-source Intelligence Research on a Website. (2023)</p>
     <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li> 
      <p>Finding Out Who Is Behind A Website.</p>
     <li><a href="https://nixintel.info/osint/website-forensics-how-to-detect-editorial-changes/">Nixintel</a></li>
@@ -70,7 +70,7 @@
     <li><a href="https://nixintel.info/osint/website-osint-whats-the-link-between-antifa-com-and-russia/">Nixintel</a></li> 
      <p>Website OSINT: What’s The Link Between Antifa.com and Russia?</p>
     <li><a href="https://restoreprivacy.com/unblock-websites/">>Restore Privacy</a></li>
-     <p>How to Unblock Websites Safely and Securely.(2023)</p>
+     <p>How to Unblock Websites Safely and Securely. (2023)</p>
 </ul>      
 <br></br>
 <table>
