@@ -165,8 +165,12 @@
 <ul>
     <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
+    <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
+     <p>This link will take you to Maxmind's GeoIP2 search where you can enter upto 25 IP addresses.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
      <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+    <li><a href="https://www.robtex.com/">Robtex</a></li> 
+     <p>Robtex is used for various kinds of research of IP numbers, Domain names, etc.</p>
     <li><a href="https://synapsint.com/">Synapsint</a></li> 
      <p>Synapsint is a tool that allows you to collect information from different open sources on the Internet about a target such as a domain, an IP address, an email, a phone number and a Bitcoin wallet.</p>  
     <li><a href="https://torwhois.com/">Tor Whois</a></li>
