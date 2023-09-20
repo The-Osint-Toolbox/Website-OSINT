@@ -51,7 +51,7 @@
     </tr>
   </table>
 <ul>
-     <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
+    <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
      <p>Conducting Basic Open-source Intelligence Research on a Website. (2023)</p>
     <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li> 
      <p>Finding Out Who Is Behind A Website.</p>
@@ -81,6 +81,8 @@
 <ul>
     <li><a href="https://analyzeid.com/">Analyzed id</a></li>
      <p>Find Other Websites Owned By The Same Person.</p>
+    <li><a href="https://github.com/duckduckgo/tracker-radar">DuckDuckGo Tracker Radar</a></li>
+     <p>Data set of top third party web domains with rich metadata about them.</p>
     <li><a href="https://osint.sh/adsense/">Reverse Google Adsense</a></li>
      <p>Find domains with the same Google Adsense ID.</p>
     <li><a href="https://www.similarsites.com/">Similar Sites</a></li> 
