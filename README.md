@@ -179,6 +179,8 @@
       <p>The Registration Data Access Protocol (RDAP) is the successor to WHOIS. Like WHOIS, RDAP provides access to information about Internet resources.</p>
     <li><a href="https://www.robtex.com/">Robtex</a></li> 
      <p>Robtex is used for various kinds of research of IP numbers, Domain names, etc.</p>
+    <li><a href="https://seon.io/">Seon</a></li>
+     <p>Seon is a fraud prevention tool that allows you to check an emails, IP or telephone number.</p> 
     <li><a href="https://synapsint.com/">Synapsint</a></li> 
      <p>Synapsint is a tool that allows you to collect information from different open sources on the Internet about a target such as a domain, an IP address, an email, a phone number and a Bitcoin wallet.</p>  
     <li><a href="https://torwhois.com/">Tor Whois</a></li>
