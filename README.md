@@ -175,6 +175,8 @@
      <p>This link will take you to Maxmind's GeoIP2 search where you can enter upto 25 IP addresses.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
      <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
+    <li><a href="https://client.rdap.org/"></a>RDAP</li>
+     <p>The Registration Data Access Protocol (RDAP) is the successor to WHOIS. Like WHOIS, RDAP provides access to information about Internet resources.</p>
     <li><a href="https://www.robtex.com/">Robtex</a></li> 
      <p>Robtex is used for various kinds of research of IP numbers, Domain names, etc.</p>
     <li><a href="https://synapsint.com/">Synapsint</a></li> 
