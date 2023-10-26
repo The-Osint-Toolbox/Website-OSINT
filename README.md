@@ -171,6 +171,8 @@
      <p>A simple Python utility to check whether an IP address belongs to a cloud provider.</p>
     <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
+    <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li>
+      <p>Ability to identify unauthorised domain registrations.</p>
     <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
      <p>This link will take you to Maxmind's GeoIP2 search where you can enter upto 25 IP addresses.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
