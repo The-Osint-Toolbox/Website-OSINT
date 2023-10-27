@@ -107,6 +107,8 @@
    <p>Blacklight will scan a website and reveal the specific user-tracking technologies on the site.</p>
   <li><a href="https://builtwith.com/">Built With</a></li> 
    <p>Find out what websites are Built With.</p>   
+  <li><a href="https://github.com/Lazza/Carbon14">Carbon 14</a></li>
+   <p>OSINT dating tool for web pages.</p> 
   <li><a href="https://search.censys.io/">Censys</a></li>   
    <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
   <li><a href="https://centralops.net/co/">Central Ops</a></li> 
