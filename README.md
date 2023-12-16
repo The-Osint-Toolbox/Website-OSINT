@@ -187,8 +187,8 @@
      <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
     <li><a href="https://client.rdap.org/">RDAP</a></li>
       <p>The Registration Data Access Protocol (RDAP) is the successor to WHOIS. Like WHOIS, RDAP provides access to information about Internet resources.</p>
-    <Li><a href="https://rdrs.icann.org/">Registration Data Request Service </a></Li> 
-     <p>This service connects requestors seeking nonpublic registration data with the relevant ICANN-accredited registrars.</p>
+    <Li><a href="https://rdrs.icann.org/">Registration Data Request Service </a></Li>
+      <p>This service connects requestors seeking nonpublic registration data with the relevant ICANN-accredited registrars.</p>
     <li><a href="https://www.robtex.com/">Robtex</a></li> 
      <p>Robtex is used for various kinds of research of IP numbers, Domain names, etc.</p>
     <li><a href="https://seon.io/">Seon</a></li>
