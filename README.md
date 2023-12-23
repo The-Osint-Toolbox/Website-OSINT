@@ -51,6 +51,8 @@
     </tr>
   </table>
 <ul>
+    <li><a href="https://osintteam.blog/how-to-use-gobuster-for-osint-905bc9360024">Cyb Detective</a></li>
+     <p>How to use GoBuster for OSINT? (2023)</p>
     <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
      <p>Conducting Basic Open-source Intelligence Research on a Website. (2023)</p>
     <li><a href="https://hatless1der.com/osint-quick-tips-beyond-whois/">Hatless1der</a></li>
