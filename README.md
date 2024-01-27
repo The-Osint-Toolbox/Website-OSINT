@@ -160,7 +160,9 @@
   <li><a href="https://urlscan.io/">Urlscan</a></li> 
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="https://viewdns.info/">View DNS</a></li> 
-   <p>ViewDNS.info allow users to gather a large amount of data about a given website or IP address./p>  
+   <p>ViewDNS.info allow users to gather a large amount of data about a given website or IP address./p>
+  <li><a href="https://www.virustotal.com/gui/home/search">VirusTotal</a></li> 
+   <p>Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.</p>
   <li><a href="https://visualping.io/">Visual Ping</a></li> 
    <p>Monitors website for any changes and notifies you by email.</p>       
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
