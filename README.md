@@ -29,8 +29,10 @@
      <p>A tool to create targeted searches for archived texts, videos, audio, software and images from the internet.</p>  
     <li><a href="http://www.cachedpages.com/">Cached Pages</a></li> 
      <p>Get the cached page of any URL.<p>
+    <li><a href="https://cachedview.nl/">Cached View</a></li>
+     <p>Enter your URL here to get its current status and view any cached/archived results.</p>
     <li><a href="https://cachedviews.com/">Cached Views</a></li> 
-     <p>Cached view of any page on Internet through multiple cached sources.</p>
+     <p>Cached view of any page on Internet through multiple cached sources.</p>  
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
     <li><a href="https://www.followthatpage.com/">Follow That Page</a></li> 
