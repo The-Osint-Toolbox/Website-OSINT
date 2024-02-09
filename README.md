@@ -32,7 +32,9 @@
     <li><a href="https://cachedview.nl/">Cached View</a></li>
      <p>Enter your URL here to get its current status and view any cached/archived results.</p>
     <li><a href="https://cachedviews.com/">Cached Views</a></li> 
-     <p>Cached view of any page on Internet through multiple cached sources.</p>  
+     <p>Cached view of any page on Internet through multiple cached sources.</p>
+    <li><a href="https://cipher387.github.io/quickcacheandarchivesearch/">Cipher 387</a></li>
+      <p>Quick cache and archive multi search resource.</p>
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
     <li><a href="https://www.followthatpage.com/">Follow That Page</a></li> 
