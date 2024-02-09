@@ -183,7 +183,7 @@
 <br></br>
 <table>
     <tr>
-      <td>Whois Resources</td>
+      <td>Whois & IP Resources</td>
     </tr>
   </table> 
 <ul>
@@ -193,6 +193,8 @@
      <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
     <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li>
       <p>Ability to identify unauthorised domain registrations.</p>
+    <li><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></li>
+     <p>Monitors torrent IP traffic around the clock and makes everything public.</p>  
     <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
      <p>This link will take you to Maxmind's GeoIP2 search where you can enter upto 25 IP addresses.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
