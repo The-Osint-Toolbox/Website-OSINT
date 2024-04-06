@@ -43,8 +43,8 @@
      <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
      <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
-    <li><a href="https://cybdetective.com/webarchiveviewer/index.php?url=www.dehashed.com">Quick Viewer</a></li> 
-     <p>Quick archive.org viewer.</p>
+    <li><a href="https://cybdetective.com/webarchiveviewer/index.php?url=www.dehashed.com">Quick Viewer</a></li>
+     <p>Quick archive.org viewer.</p>
     <li><a href="https://www.webarchive.org.uk/en/ukwa/">UK Web Archive</a></li> 
      <p>Use this site to discover old or obsolete versions of UK websites.</p>
     <li><a href="https://github.com/xnl-h4ck3r/waymore?utm_source=substack&utm_medium=email">Waymore</a></li>
