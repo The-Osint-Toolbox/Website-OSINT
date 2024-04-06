@@ -134,7 +134,9 @@
   <li><a href="https://dnsdumpster.com/">DNS Dumpster</a></li> 
    <p>Dns recon & research, find & lookup dns records.</p>    
   <li><a href="https://dnslytics.com/tools">DNS Lytics</a></li> 
-   <p>See detailed information about every IP Address, Domain Name and Provider.</p>     
+   <p>See detailed information about every IP Address, Domain Name and Provider.</p>
+  <li><a href="https://digger.tools/">Domain Digger</a></li>
+   <p>Get details about any Domain.</p>
   <li><a href="https://downforeveryoneorjustme.com/">Down For Everyone</a></li>  
    <p>This site checks if a website is down for everyone or just you.</p>  
   <li><a href="https://faviconhasher.codejavu.tech/">Favicon Hasher</a></li> 
