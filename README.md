@@ -23,6 +23,8 @@
     </tr>
   </table>
 <ul>
+    <li><a href="https://12ft.io/">12ft</a></li>
+     <p>Will attempt to show content from a paywalled site by using the cached, unpaywalled version of the page.</p>
     <li><a href="https://archive.is/">Archive Today</a></li>
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
     <li><a href="https://www.aware-online.com/en/osint-tools/web-archive-search-tool/">Aware-Online</a></li>
