@@ -173,6 +173,8 @@
    <p>Free tools for network, DevOps and site reliability engineers</p>    
   <li><a href="https://spyonweb.com/">Spy On Web</a></li>
    <p>Spy On Web is a free online service that allows you to identify all websites that might belong to the same owner.</p>
+  <li><a href="https://synapsint.com/">Synapslnnt</a></li>
+   <p>The unified OSINT research tool.</p>
   <li><a href="https://urlscan.io/">Urlscan</a></li> 
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="https://viewdns.info/">View DNS</a></li> 
