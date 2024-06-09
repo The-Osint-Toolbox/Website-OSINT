@@ -77,7 +77,7 @@
 <br></br>
 <table>
     <tr>
-      <td>Website Analysis Resources</td>
+      <td>Website Investigation Resources</td>
     </tr>
 </table> 
 <ul>
@@ -141,6 +141,8 @@
    <p>The unified OSINT research tool.</p>
   <li><a href="https://urlscan.io/">Urlscan</a></li> 
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
+  <li><a href="https://github.com/z0m31en7/Uscrapper">Uscrapper</a></li>
+   <p>Extract valuable insights with ease and efficiency, from both surface and deep web sources.</p>
   <li><a href="https://viewdns.info/">View DNS</a></li> 
    <p>ViewDNS.info allow users to gather a large amount of data about a given website or IP address./p>
   <li><a href="https://www.virustotal.com/gui/home/search">VirusTotal</a></li> 
