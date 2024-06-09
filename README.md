@@ -56,42 +56,6 @@
 </ul>
 <br></br> 
 <table>
-    <tr>
-      <td>Blogs</td>
-    </tr>
-  </table>
-<ul>
-    <li><a href="https://osintteam.blog/how-to-use-gobuster-for-osint-905bc9360024">Cyb Detective</a></li>
-     <p>How to use GoBuster for OSINT? (2023)</p>
-    <li><a href="https://publication.osintambition.org/how-to-use-python-sitemap-generator-for-osint-77bc69fa165d">Cyp Detective</a></li>
-     <p>How to use Python Sitemap Generator for OSINT? (2023)</p>
-    <li><a href="https://hatless1der.com/osint-quick-tips-beyond-whois/">Hatless1der</a></li>
-     <p>OSINT Quick Tips: Beyond WHOIS (2023)</p>
-    <li><a href="https://www.linkedin.com/pulse/how-see-googles-cache-any-page-joe-hall-xbnee">Joe Hall</a></li>
-     <p>How to see Google's cache for any page. (2024)</p>
-    <li><a href="https://cyberw1ng.medium.com/tryhackmes-webosint-simple-writeup-conducting-basic-open-source-intelligence-research-on-a-f1c1da2e8089">Karthikeyan Nagaraj</a></li>
-     <p>Conducting Basic Open-source Intelligence Research on a Website. (2023)</p>
-    <li><a href="https://nixintel.info/osint/who-stole-my-stuff-finding-out-who-is-behind-a-website/">Nixintel</a></li> 
-     <p>Finding Out Who Is Behind A Website.</p>
-    <li><a href="https://nixintel.info/osint/website-forensics-how-to-detect-editorial-changes/">Nixintel</a></li>
-     <p>Nixintel's Website Forensics: How To Detect Editorial Change.</p>
-    <li><a href="https://nixintel.info/osint/osint-techniques-whos-behind-a-wordpress-site/">Nixintel</a></li> 
-     <p>OSINT Techniques: Who’s Behind A WordPress Site?</p>
-    <li><a href="https://nixintel.info/osint/search-tip-finding-historic-whois-data/">Nixintel</a></li> 
-     <p>Search Tip: Finding Historic WhoIs Data.</p>
-    <li><a href="https://nixintel.info/osint/website-attribution-without-whois-reverse-ip-lookup/">Nixintel</a></li> 
-     <p>Website Attribution Without WhoIs – Reverse IP Lookup.</p>
-    <li><a href="https://nixintel.info/osint/website-attribution-without-whois-reverse-ip-lookups-part-2/">Nixintel</a></li> 
-     <p>Website Attribution Without WhoIs – Reverse IP Lookups (Part 2)</p>
-    <li><a href="https://nixintel.info/osint/website-investigation-where-did-8chan-move-to/">Nixintel</a></li> 
-     <p>Website Investigation – Where Did 8Chan Move To?</p>
-    <li><a href="https://nixintel.info/osint/website-osint-whats-the-link-between-antifa-com-and-russia/">Nixintel</a></li> 
-     <p>Website OSINT: What’s The Link Between Antifa.com and Russia?</p>
-    <li><a href="https://restoreprivacy.com/unblock-websites/">Restore Privacy</a></li>
-     <p>How to Unblock Websites Safely and Securely. (2023)</p>
-</ul>      
-<br></br>
-<table>
       <tr>
         <td>Similar Site Resources</td>
       </tr>
