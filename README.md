@@ -107,6 +107,8 @@
    <p>See detailed information about every IP Address, Domain Name and Provider.</p>
   <li><a href="https://dnsspy.io/">DNS Spy</a></li>
    <p>Monitor, validate and verify your DNS configurations.</p>
+  <li><a href="https://dnstwister.report/">DNS Twister</a></li>
+   <p>The anti-phishing domain name search engine and DNS monitoring service.</p>
   <li><a href="https://digger.tools/">Domain Digger</a></li>
    <p>Get details about any Domain.</p>
   <li><a href="https://downforeveryoneorjustme.com/">Down For Everyone</a></li>  
