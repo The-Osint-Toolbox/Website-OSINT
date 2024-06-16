@@ -1,6 +1,6 @@
 # Website-OSINT
 <p align="center">
-      <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+      <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
     </p>
 <br></br>
 <p>Welcome to my website Osint repository. Some of the resources, require you to sign up for an account but they will offer a free amount of monthly searches and an API key. Some will offer free searches without the need to sign up however they may not provide you with the full result of your request. Some resources will offer you everything they find on a website. 
