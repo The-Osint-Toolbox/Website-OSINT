@@ -93,6 +93,8 @@
    <p>Helps information security practitioners discover, monitor, and analyze devices that are accessible from the Internet.</p> 
   <li><a href="https://centralops.net/co/">Central Ops</a></li> 
    <p>Investigate domains and IP addresses. Get registrant information, DNS records, and more—all in one report.</p>
+  <li><a href="https://check-host.net/">Check Host</a></li>
+   <p>Check-Host.net is an online tool for checking availability of websites, servers, hosts and IP addresses. It provides domain and IP address location data from a few geolocation IP databases and whois as well.</p>
   <li><a href="https://github.com/chiasmod0n/chiasmodon">Chiasmodon</a></li>
    <p>Chiasmodon is an OSINT tool designed to assist in the process of gathering information about a target domain.</p>   
   <li><a href="https://tools.cmlabs.co/en/technology-lookup">Cmlabs</a></li> 
