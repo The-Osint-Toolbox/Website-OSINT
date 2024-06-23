@@ -119,6 +119,8 @@
    <p>Follow URLs redirects.</p>
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p>
+  <li><a href="https://search.google.com/search-console/about">Google Search Console</a></li>
+   <p>Google Search Console (formerly Google Webmaster Tools) is a web service by Google which allows webmasters to check indexing status, search queries, crawling errors and optimize visibility of their websites.</p>
   <li><a href="https://informationlaundromat.com/">Information Laundromat</a></li>
    <p>Tool used to determine if and how websites share architecture and content.</p>
   <li><a href="https://www.ipvoid.com/">IPVoid</a></li> 
