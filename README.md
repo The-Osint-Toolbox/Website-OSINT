@@ -137,6 +137,8 @@
    <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>
   <li><a href="https://pagexray.fouanalytics.com/">PageXray</a></li> 
    <p>Analyse a website for links, ads, trackers, download results and save a screenshot of the webpage.</p>
+  <li><a href="https://phishstats.info/">Phish Stats</a></li>
+   <p>Gathering, enhancing and sharing phishing information with the infosec community.</p>
   <li><a href="https://www.phishtank.com/">Phish Tank.</a></li> 
    <p>PhishTank is a collaborative clearing house for data and information about phishing on the Internet.</p>
   <li><a href="https://phonebook.cz/">Phonebook</a></li>
