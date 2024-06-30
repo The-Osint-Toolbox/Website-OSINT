@@ -40,7 +40,9 @@
     <li><a href="https://distill.io/">Distill</a></li> 
      <p>Tracking website updates, automated and simplified.</p>
     <li><a href="https://www.followthatpage.com/">Follow That Page</a></li> 
-     <p>Follow That Page is a change detection and notification service that sends you an email when your favourite web pages have change.</p>  
+     <p>Follow That Page is a change detection and notification service that sends you an email when your favourite web pages have change.</p>
+    <li><a href="https://www.ghostarchive.org/">Ghost Archive</a></li>
+     <p>Ghostarchive is a free-to-use archiving website designed to be fast and easy to use.</p>
     <li><a href="https://www.httrack.com/">HTTrack</a></li> 
      <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
