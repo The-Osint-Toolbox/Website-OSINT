@@ -83,6 +83,8 @@
     </tr>
 </table> 
 <ul>
+  <li><a href="https://huggingface.co/spaces/JournalistsonHF/ai-scraper">AI Scraper</a></li>
+   <p>Easily scrape and summarize web content using advanced AI model</p>
   <li><a href="https://awesometechstack.com/">Awesome Tech Stack</a></li>
    <p>Awesome Tech Stack's offers in-depth technology analysis of a website.</p>      
   <li><a href="https://themarkup.org/blacklight">Blacklight</a></li>
