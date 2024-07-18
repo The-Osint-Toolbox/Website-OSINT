@@ -237,12 +237,10 @@
 <ul>
     <li><a href="https://bitly.com/">Bitly</a></li>
     <li><a href="https://checkshorturl.com/">Check Short URL</a></li>
-    <li><a href="https://dnslytics.com/reverse-tinyurl">DNSlytics</a></li>
     <li><a href="https://www.expandurl.net/">Expand URL</a></li>
     <li><a href="https://www.ipvoid.com/unshorten-url/">IPVoid</a></li>
     <li><a href="https://tinyurl.com/app">Tiny URL</a></li>
     <li><a href="https://dfir.blog/unfurl/">UnFurl</a></li>
-    <li><a href="https://unshorten.it/">Unshorten It</a></li>
     <li><a href="https://unshorten.link/">Unshorten Link</a></li>
     <li><a href="https://urlclean.com/">URL Clean</a></li> 
     <li><a href="https://urlex.org/">Urlex</a></li>
