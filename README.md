@@ -119,6 +119,8 @@
    <p>The anti-phishing domain name search engine and DNS monitoring service.</p>
   <li><a href="https://digger.tools/">Domain Digger</a></li>
    <p>Get details about any Domain.</p>
+  <li><a href="https://downdetector.com/">DownDetector</a></li>
+   <p>Real-time problem & outage monitoring.</p>
   <li><a href="https://downforeveryoneorjustme.com/">Down For Everyone</a></li>  
    <p>This site checks if a website is down for everyone or just you.</p>  
   <li><a href="https://faviconhasher.codejavu.tech/">Favicon Hasher</a></li> 
