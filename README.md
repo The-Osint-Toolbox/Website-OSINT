@@ -167,6 +167,8 @@
    <p>Urlscan.io is a free service to scan and analyse websites.</p>
   <li><a href="https://github.com/z0m31en7/Uscrapper">Uscrapper</a></li>
    <p>Extract valuable insights with ease and efficiency, from both surface and deep web sources.</p>
+  <li><a href="https://app.validin.com/login">Validin</a></li>
+   <p>Validin offers cutting-edge DNS, certificate, and crawling data services to empower threat researchers and corporate security teams.</p>
   <li><a href="https://viewdns.info/">View DNS</a></li> 
    <p>ViewDNS.info allow users to gather a large amount of data about a given website or IP address./p>
   <li><a href="https://www.virustotal.com/gui/home/search">VirusTotal</a></li> 
