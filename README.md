@@ -193,6 +193,8 @@
     </tr>
   </table> 
 <ul>
+    <li><a href="https://www.bigdomaindata.com/reverse-whois/">BigDomainData</a></li>
+     <p>Reverse Whois lookup.</p>
     <li><a href="https://github.com/blacklanternsecurity/cloudcheck">Cloudcheck</a></li>
      <p>A simple Python utility to check whether an IP address belongs to a cloud provider.</p>
     <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
