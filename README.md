@@ -204,7 +204,9 @@
     <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li>
       <p>Ability to identify unauthorised domain registrations.</p>
     <li><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></li>
-     <p>Monitors torrent IP traffic around the clock and makes everything public.</p>  
+     <p>Monitors torrent IP traffic around the clock and makes everything public.</p>
+    <li><a href="https://ip.me/">IP.me</a></li>
+     <p>Proton's IP & Whois lookup site.</p>
     <li><a href="https://host.io/">Host io</a></li>
       <p>A powerful and fast domain name data API.</p>
     <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
