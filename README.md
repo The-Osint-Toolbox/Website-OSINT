@@ -131,6 +131,8 @@
    <p>All-sources tool to search websites by favicons.</p>
   <li><a href="https://fredirect.vercel.app/">Fredirect</a></li> 
    <p>Follow URLs redirects.</p>
+  <li><a href="https://www.glimpsehq.io/">GlimpseHQ</a></li> 
+   <p>Get a glimpse of the marketing activity of your competitors.</p
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p>
   <li><a href="https://search.google.com/search-console/about">Google Search Console</a></li>
