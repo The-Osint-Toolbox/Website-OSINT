@@ -128,7 +128,7 @@
   <li><a href="https://faviconhasher.codejavu.tech/">Favicon Hasher</a></li> 
    <p>Fav Icon Hasher can search various search engines to locate additional assets that might be associated with the target web application.</p>
   <li> <a href="https://github.com/sharsil/favicorn">Favicorn</a></li>
-   <p>All-sources tool to search websites by favicons.</p>
+   <p>All-sources tool to search websites by favicons.</p>
   <li><a href="https://fredirect.vercel.app/">Fredirect</a></li> 
    <p>Follow URLs redirects.</p>
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
