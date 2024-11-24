@@ -127,8 +127,8 @@
    <p>This site checks if a website is down for everyone or just you.</p>  
   <li><a href="https://fredirect.vercel.app/">Fredirect</a></li> 
    <p>Follow URLs redirects.</p>
-  <li><a href="https://www.glimpsehq.io/">GlimpseHQ</a></li> 
-   <p>Get a glimpse of the marketing activity of your competitors.</p>
+  <li><a href="https://www.glimpsehq.io/">GlimpseHQ</a></li>
+   <p>Get a glimpse of the marketing activity of your competitors.</p>
   <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p>
   <li><a href="https://search.google.com/search-console/about">Google Search Console</a></li>
@@ -194,12 +194,14 @@
     <td>Favicon Resources</td>
   </tr>
 </table>
+<ul>
  <li><a href="https://faviconhasher.codejavu.tech/">Favicon Hasher</a></li>
   <p>Fav Icon Hasher can search various search engines to locate additional assets that might be associated with the target web application.</p>
  <li> <a href="https://github.com/sharsil/favicorn">Favicorn</a></li>
   <p>All-sources tool to search websites by favicons.</p>
  <li><a href="https://github.com/pielco11/fav-up">Fav-Up</a></li>
   <p>Favicon lookup using Shodan.</p>
+</ul>      
 <br></br>
 <table>
     <tr>
