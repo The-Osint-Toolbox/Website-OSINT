@@ -129,7 +129,7 @@
    <p>Follow URLs redirects.</p>
   <li><a href="https://www.glimpsehq.io/">GlimpseHQ</a></li> 
    <p>Get a glimpse of the marketing activity of your competitors.</p>
-  <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>  
+  <li><a href="https://toolbox.googleapps.com/apps/main/">Google Admin Toolbox</a></li>
    <p>Google Admin Toolbox has a suite of tools to help you analyse a website.</p>
   <li><a href="https://search.google.com/search-console/about">Google Search Console</a></li>
    <p>Google Search Console (formerly Google Webmaster Tools) is a web service by Google which allows webmasters to check indexing status, search queries, crawling errors and optimize visibility of their websites.</p>
