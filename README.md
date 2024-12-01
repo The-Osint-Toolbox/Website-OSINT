@@ -153,6 +153,8 @@
    <p>PhishTank is a collaborative clearing house for data and information about phishing on the Internet.</p>
   <li><a href="https://phonebook.cz/">Phonebook</a></li>
    <p>Phonebook lists all domains, email addresses, or URLs for the given input domain.</p>
+  <li><a href="https://github.com/s0md3v/Photon">Photon</a></li>
+   <p>Website crawler designed for OSINT.</p>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
    <p>Source code search engine.</p>
   <li><a href="https://shimon-6983d71a338d.herokuapp.com/">Shimon</a></li>
