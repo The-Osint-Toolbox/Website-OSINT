@@ -212,51 +212,32 @@
   </table> 
 <ul>
     <li><a href="https://www.bigdomaindata.com/reverse-whois/">BigDomainData</a></li>
-     <p>Reverse Whois lookup.</p>
     <li><a href="https://github.com/blacklanternsecurity/cloudcheck">Cloudcheck</a></li>
-     <p>A simple Python utility to check whether an IP address belongs to a cloud provider.</p>
     <li><a href="https://reverseip.domaintools.com/">Domain Tools</a></li>
-     <p>Find all the domains hosted on a given IP address.Track the domains that come and go.</p>
-    <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li>
-      <p>Ability to identify unauthorised domain registrations.</p>
+    <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li> 
+    <li><a href="https://host.io/">Host io</a></li> 
     <li><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></li>
-     <p>Monitors torrent IP traffic around the clock and makes everything public.</p>
+    <li><a href="ip2location.com">IP2Location</a></li>
+    <li><a href="https://www.iplocation.net/">IP Location.net</a></li>
+    <li><a href="https://iplocation.io/">IP Location.io</a></li>
     <li><a href="https://ip.me/">IP.me</a></li>
-     <p>Proton's IP & Whois lookup site.</p>
-    <li><a href="https://host.io/">Host io</a></li>
-      <p>A powerful and fast domain name data API.</p>
     <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
-     <p>This link will take you to Maxmind's GeoIP2 search where you can enter upto 25 IP addresses.</p>
     <li><a href="https://myip.ms/">My IP</a></li>
-     <p>Find Hosting Company On Any Website / Owner on Any IP Address</p>
     <li><a href="https://client.rdap.org/">RDAP</a></li>
-      <p>The Registration Data Access Protocol (RDAP) is the successor to WHOIS. Like WHOIS, RDAP provides access to information about Internet resources.</p>
-    <Li><a href="https://rdrs.icann.org/">Registration Data Request Service </a></Li>
-      <p>This service connects requestors seeking nonpublic registration data with the relevant ICANN-accredited registrars.</p>
+    <Li><a href="https://rdrs.icann.org/">Registration Data Request Service </a></Li> 
     <li><a href="https://www.robtex.com/">Robtex</a></li> 
-     <p>Robtex is used for various kinds of research of IP numbers, Domain names, etc.</p>
     <li><a href="https://seon.io/">Seon</a></li>
-     <p>Seon is a fraud prevention tool that allows you to check an emails, IP or telephone number.</p> 
     <li><a href="https://synapsint.com/">Synapsint</a></li> 
-     <p>Synapsint is a tool that allows you to collect information from different open sources on the Internet about a target such as a domain, an IP address, an email, a phone number and a Bitcoin wallet.</p>  
     <li><a href="https://torwhois.com/">Tor Whois</a></li>
-     <p>TorWhois Onion Search.</p>  
+    <li><a href="https://www.whois.com/">Whois</a></li>
     <lI><a href="https://whoisology.com/">Whoisology</a></lI> 
-     <p>Deep connections between domain names & their owners.</p>  
     <li><a href="https://tools.whoisxmlapi.com/login">WhoisXML Domain Suite</a></li> 
-     <p>This link will take you to the login page, where you can create a free account. The links below offer WhoisXML limited data without the need to log in.</p>
     <li><a href="https://dns-lookup.whoisxmlapi.com/">WhoisXML DNS</a></li>
-     <p>A complete DNS records lookup product line to check the NS, MX, SPF, A, SOA, TXT, etc.</p>
     <li><a href="https://ip-geolocation.whoisxmlapi.com/">WhoisXML IP Geolocation</a></li> 
-     <p>IP geolocation tools to find someone’s exact IP address location.</p>
     <li><a href="https://ip-netblocks.whoisxmlapi.com/overview">WhoisXML IP Range</a></li> 
-     <p>Gather details about the IP range of a specific IP address such as its netblock borders, last update, organization name, country code, abuse contact information.</p>
     <li><a href="https://whois.whoisxmlapi.com/overview">WhoisXML Whois Overview</a></li>
-     <p>WHOIS data domain name, IP address, or email account</p>
     <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois History</a></li> 
-     <p>WHOIS History Lookup: Access domain name ownership history.</p>
     <li><a href="https://www.whoxy.com/">Whoxy</a></li> 
-     <p>Search by domain, keyword, email address, company name.</p>  
 </ul>  
 <br></br>
 <table>
