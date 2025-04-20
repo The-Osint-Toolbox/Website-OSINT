@@ -191,6 +191,8 @@
    <p>Website Down status checker tool to test any site's reachability in real-time.</p>     
   <li><a href="https://website.informer.com/">Website Informer</a></li> 
    <p>Get a quick aggregated view of everything the Web can promptly tell you about a website.</p>     
+  <li><a href="https://well-known.dev/">Well-Known</a></li> 
+   <p>Search /.well-known/ resources served by sites across the web.</p>
 </ul>
 <br></br>
 <table>
