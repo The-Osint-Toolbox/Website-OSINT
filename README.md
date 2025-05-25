@@ -77,6 +77,8 @@
      <p>quickly discover sites that offer similar content, features, and services.</p>
     <li><a href="https://m.siteslike.com/">Sites Like</a></li>
      <p>You can search 1000's of sites that are similar to each other.</p>
+    <li><a href="https://darkwebinformer.com/subdomain-finder/">Subdomain Finder</a></li>
+     <p>Uncover exposed subdomains tied to a given domain.</p>
 </ul>   
 <br></br>
 <table>
