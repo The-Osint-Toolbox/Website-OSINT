@@ -31,8 +31,6 @@
      <p>You can use this site to view saved snapshots of a website or manually save a snapchat.</p>
     <li><a href="https://www.aware-online.com/en/osint-tools/web-archive-search-tool/">Aware-Online</a></li>
      <p>A tool to create targeted searches for archived texts, videos, audio, software and images from the internet.</p>  
-    <li><a href="http://www.cachedpages.com/">Cached Pages</a></li> 
-     <p>Get the cached page of any URL.<p>
     <li><a href="https://cachedview.nl/">Cached View</a></li>
      <p>Enter your URL here to get its current status and view any cached/archived results.</p>
     <li><a href="https://cachedviews.com/">Cached Views</a></li> 
@@ -47,6 +45,8 @@
      <p>Ghostarchive is a free-to-use archiving website designed to be fast and easy to use.</p>
     <li><a href="https://www.httrack.com/">HTTrack</a></li> 
      <p>HTTrack is a free (GPL, libre/free software) and easy-to-use offline browser utility. It allows you to download a World Wide Web site.</p>
+    <li><a href="https://pagecached.com/">PageCached</a></li> 
+     <p>Find what the page looked like in the past.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
      <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
     <li><a href="https://cybdetective.com/webarchiveviewer/index.php?url=www.dehashed.com">Quick Viewer</a></li>
