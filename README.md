@@ -167,6 +167,8 @@
    <p>Free tools for network, DevOps and site reliability engineers</p>    
   <li><a href="https://spyonweb.com/">Spy On Web</a></li>
    <p>Spy On Web is a free online service that allows you to identify all websites that might belong to the same owner.</p>
+  <li><a href="https://yup.gr/tools/subdomain-finder">Subdomain Finder</a></li> 
+   <p>All in One Subdomain Finder Tool is a tool to search for subdomains of an inputted domain.</p>
   <li><a href="https://synapsint.com/">Synapslnnt</a></li>
    <p>The unified OSINT research tool.</p>
   <li><a href="https://urldna.io/">URL DNA</a></li>
