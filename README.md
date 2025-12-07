@@ -49,6 +49,8 @@
      <p>Find what the page looked like in the past.</p>
     <li><a href="https://pdfmyurl.com/">PDF a URL</a></li>
      <p>Quickly and easily convert any URL or raw HTML into a high-quality PDF</p>
+    <li><a href="https://perma.cc/">Perma</a></li> 
+     <p>Perma.cc helps scholars, journals, courts, and others create permanent records of the web sources they cite.</p>
     <li><a href="https://cybdetective.com/webarchiveviewer/index.php?url=www.dehashed.com">Quick Viewer</a></li>
      <p>Quick archive.org viewer.</p>
     <li><a href="https://www.webarchive.org.uk/en/ukwa/">UK Web Archive</a></li> 
