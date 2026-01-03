@@ -232,6 +232,7 @@
     <li><a href="https://github.com/SecOpsSteve/DREWS">DREWS</a></li> 
     <li><a href="https://host.io/">Host io</a></li> 
     <li><a href="https://iknowwhatyoudownload.com/en/peer/">I Know What You Download</a></li>
+    <li><a href="https://ipleak.net/">IP Leaks</a></li>
     <li><a href="https://ip2location.com">IP2Location</a></li>
     <li><a href="https://www.iplocation.net/">IP Location.net</a></li>
     <li><a href="https://iplocation.io/">IP Location.io</a></li>
