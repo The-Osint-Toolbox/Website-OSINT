@@ -191,6 +191,8 @@
    <p>Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches, automatically share them with the security community.</p>
   <li><a href="https://visualping.io/">Visual Ping</a></li> 
    <p>Monitors website for any changes and notifies you by email.</p>       
+  <li><a href="https://snaplert.com">Snaplert</a></li> 
+   <p>Monitor webpages for visual changes with pixel-level diffs, AI summaries explaining what changed, and an element-level zone picker. Free during open beta.</p>       
   <li><a href="http://www.visualsitemapper.com/">Visual Site Mapper.</a></li> 
    <p>Visual Site Mapper is a free service that can quickly show a map of a website.</p>
   <li><a href="https://www.wappalyzer.com/">Wappalyzer</a></li> 
