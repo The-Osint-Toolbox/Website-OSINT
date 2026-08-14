@@ -273,5 +273,6 @@
     <li><a href="https://dfir.blog/unfurl/">UnFurl</a></li>
     <li><a href="https://urlclean.com/">URL Clean</a></li> 
     <li><a href="https://urlex.org/">Urlex</a></li>
+<li><a href="https://github.com/Xquik-dev/x-twitter-scraper">Xquik</a> - Independent X (Twitter) data API for search, follower export, monitors, and MCP.</li>
 </ul>
 <br></br>
