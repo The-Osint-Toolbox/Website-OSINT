@@ -119,7 +119,7 @@
    <p>Classifies the domains on the Internet according to their “historical and relational data.”</p>  
   <li><a href="https://dnschecker.org/">DNS Checker</a></li>
    <p>DNS Checker provides a free DNS propagation check service.</p>
-  <li><a href="https://apifreaks.com/tools/dns-lookup">APIFreaks DNS Lookup</a></li>
+  <li><a href="https://apifreaks.com/api/dns-lookup">APIFreaks DNS Lookup</a></li>
    <p>Look up DNS records for a domain.</p>
   <li><a href="https://dnsdumpster.com/">DNS Dumpster</a></li> 
    <p>Dns recon & research, find & lookup dns records.</p>    
