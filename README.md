@@ -119,6 +119,8 @@
    <p>Classifies the domains on the Internet according to their “historical and relational data.”</p>  
   <li><a href="https://dnschecker.org/">DNS Checker</a></li>
    <p>DNS Checker provides a free DNS propagation check service.</p>
+  <li><a href="https://apifreaks.com/tools/dns-lookup">APIFreaks DNS Lookup</a></li>
+   <p>Look up DNS records for a domain.</p>
   <li><a href="https://dnsdumpster.com/">DNS Dumpster</a></li> 
    <p>Dns recon & research, find & lookup dns records.</p>    
   <li><a href="https://dnslytics.com/tools">DNS Lytics</a></li> 
@@ -237,6 +239,7 @@
     <li><a href="https://ipleak.net/">IP Leaks</a></li>
     <li><a href="https://ip2location.com">IP2Location</a></li>
     <li><a href="https://www.iplocation.net/">IP Location.net</a></li>
+    <li><a href="https://ipgeolocation.io/">IPGeolocation.io</a></li>
     <li><a href="https://iplocation.io/">IP Location.io</a></li>
     <li><a href="https://ip.me/">IP.me</a></li>
     <li><a href="https://www.maxmind.com/en/geoip2-precision-demo">Maxmind</a></li> 
@@ -255,6 +258,7 @@
     <li><a href="https://ip-netblocks.whoisxmlapi.com/overview">WhoisXML IP Range</a></li> 
     <li><a href="https://whois.whoisxmlapi.com/overview">WhoisXML Whois Overview</a></li>
     <li><a href="https://whois-history.whoisxmlapi.com/lookup">WhoisXML Whois History</a></li> 
+    <li><a href="https://whoisfreaks.com/">WhoisFreaks</a></li>
     <li><a href="https://www.whoxy.com/">Whoxy</a></li> 
 </ul>  
 <br></br>
