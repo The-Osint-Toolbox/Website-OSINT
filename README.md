@@ -17,6 +17,8 @@
    <p>Anytime you register a domain on the Internet, you go through a domain name registrar, who pays a small fee to ICANN to register your domain.</p>
   <li><a href="https://www.nominet.uk/lookup/">Nominet</a></li> 
    <p>Nominet UK is currently delegated by IANA to be the manager of the .uk domain name.</p> 
+  <li><a href="https://arynjennen1989-stack.github.io/">Zero Dollar Domains</a></li>
+   <p>Live RDAP hunter for unused cheap TLD names plus a catalog of still-free domain programs (eu.org, is-a.dev). Not an expired-.com dump.</p>
 </ul>     
 <table>
 <br></br>      
