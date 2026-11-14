@@ -167,6 +167,8 @@
    <p>Website crawler designed for OSINT.</p>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
    <p>Source code search engine.</p>
+  <li><a href="https://www.searchwebcode.com/">SearchWebCode</a></li>
+   <p>Exact-string and regex search over the HTML, JS and CSS of 129M website homepages.</p>
   <li><a href="https://shimon-6983d71a338d.herokuapp.com/">Shimon</a></li>
    <p>URL fingerprinting made easy.</p> 
   <li><a href="https://www.site24x7.com/tools/">Site 24x7</a></li>
