@@ -157,6 +157,8 @@
    <p>Google's mobile friendly test, see how a website renders on a mobile.</p>    
   <li><a href="https://mxtoolbox.com/NetworkTools.aspx">MX Toolbox</a></li> 
    <p>MX Toolbox has a another suite of tools to help you analyse a website.</p>
+  <li><a href="https://netapi.com/lookup-domain/">NetAPI</a></li>
+   <p>Look up a domain: registrar, registration and expiry dates, DNS servers, server IP, hostname and country. The IP lookup lists the other domains hosted on the same address.</p>
   <li><a href="https://pagexray.fouanalytics.com/">PageXray</a></li> 
    <p>Analyse a website for links, ads, trackers, download results and save a screenshot of the webpage.</p>
   <li><a href="https://phishstats.info/">Phish Stats</a></li>
@@ -175,8 +177,6 @@
    <p>URL fingerprinting made easy.</p> 
   <li><a href="https://www.site24x7.com/tools/">Site 24x7</a></li>
    <p>Free tools for network, DevOps and site reliability engineers</p>    
-  <li><a href="https://spyonweb.com/">Spy On Web</a></li>
-   <p>Spy On Web is a free online service that allows you to identify all websites that might belong to the same owner.</p>
   <li><a href="https://yup.gr/tools/subdomain-finder">Subdomain Finder</a></li> 
    <p>All in One Subdomain Finder Tool is a tool to search for subdomains of an inputted domain.</p>
   <li><a href="https://synapsint.com/">Synapslnnt</a></li>
